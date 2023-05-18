@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edit</name>
+   <tag></tag>
+   <elementGuidId>0925454e-168c-4f23-929d-17f0ea418a3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-actions > a.action.edit > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[3]/div[2]/div/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3ac34ef-3511-44bd-a6f5-b07c85eea86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>c95a2ce4-1237-48b2-aa8b-bfdaac6b7352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;block block-dashboard-info&quot;]/div[@class=&quot;block-content&quot;]/div[@class=&quot;box box-information&quot;]/div[@class=&quot;box-actions&quot;]/a[@class=&quot;action edit&quot;]/span[1]</value>
+      <webElementGuid>352e1f14-468f-4045-a2c8-a81a202a52bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[3]/div[2]/div/div[2]/a/span</value>
+      <webElementGuid>01a25789-4481-4900-bcdb-ba439f2678c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/following::span[1]</value>
+      <webElementGuid>858b3901-809b-4302-b2b9-dce7d9837f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/following::span[2]</value>
+      <webElementGuid>3779966e-ccf7-49d1-961c-21ee4227224c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/preceding::span[1]</value>
+      <webElementGuid>9323db4b-1d95-455a-9e2e-70e48f29e0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletters'])[1]/preceding::span[1]</value>
+      <webElementGuid>cca103b3-91b6-4d8a-863b-098c68cdddf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a/span</value>
+      <webElementGuid>40f40b06-74c3-4fc0-af26-4a0ebedfce13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>33e3e174-2e7f-4ca5-a08f-09d55ef95efd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
